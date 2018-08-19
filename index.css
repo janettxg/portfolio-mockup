@@ -1,0 +1,10 @@
+body {
+   background-color:  #43464B;
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#portfolio-img {
+    width: 300px;
+    height: 300px;
+}
